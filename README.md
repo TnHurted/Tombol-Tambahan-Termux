@@ -7,4 +7,11 @@ $ pkg install git
 
 $ pkg install python2
 
-$ git clone
+$ git clone https://github.com/TnHurted/Tombol-Tambahan-Termux
+
+$ cd Tombol-Tambahan-Termux
+
+$ python2 button.py
+
+
+# Thanks Jangan Lupa Subscribe
